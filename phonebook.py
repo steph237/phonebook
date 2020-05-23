@@ -42,3 +42,4 @@ while choice != 5:
     elif choice == 5: #quit program
         print("Thank u for using this application")
         print("hope to see you again")
+        print("next time")

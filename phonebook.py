@@ -41,3 +41,4 @@ while choice != 5:
         print_menu()
     elif choice == 5: #quit program
         print("Thank u for using this application")
+        print("hope to see you again")
